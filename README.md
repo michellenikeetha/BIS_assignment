@@ -62,6 +62,3 @@ To run the analysis on your machine:
 2. Run the Jupyter Notebook provided.
 3. Explore the visualizations and insights.
 
-## Contact
-
-For any questions or collaboration, please reach out to the project maintainer.
